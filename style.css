@@ -144,21 +144,21 @@ body{
   background: #6C757D;
 }
 .controls .choose-img{
-  background: #6C757D;
+  background: #1d1f22d7;
   border: 1px solid #6C757D;
 }
 .controls .choose-img:hover{
-    background: #1d1f22d7;
+    background: #6C757D;
     border: 1px solid #6C757D;
   }
 .controls .save-img{
   margin-left: 5px;
-  background: #5372F0;
+  background: #3154e0;
   border: 1px solid #5372F0;
 }
 .controls .save-img:hover{
     margin-left: 5px;
-    background: #3154e0;
+    background: #5372F0;
     border: 1px solid #5372F0;
   }
 
